@@ -1,5 +1,4 @@
 import 'package:e_shoppie_admin/screens/admin_home.dart';
-import 'package:e_shoppie_admin/screens/admin_screen.dart';
 import 'package:e_shoppie_admin/themes.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
